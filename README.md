@@ -3,7 +3,7 @@
 Este repositório contém uma aplicação desenvolvida como parte do curso "Java Spring Professional" da DevSuperior. O objetivo do projeto é praticar ORM (mapeamento objeto-relacional), seeding e configuração do banco de dados H2 utilizando o framework Spring Boot. A aplicação simula um sistema de e-commerce com funcionalidades básicas de cadastro de produtos, categorias e pedidos.
 
 ## Documento de requisitos:
-https://drive.google.com/drive/folders/1WTBggtq38cLeeQosPHjuhjSLxa94Lmx_
+[https://drive.google.com/drive/folders/1WTBggtq38cLeeQosPHjuhjSLxa94Lmx_](https://drive.google.com/drive/folders/1WTBggtq38cLeeQosPHjuhjSLxa94Lmx_)
 
 ## Modelo do dominio
 ![image](https://github.com/user-attachments/assets/7c648dbd-bb2e-4779-9803-d252c93e1634)
